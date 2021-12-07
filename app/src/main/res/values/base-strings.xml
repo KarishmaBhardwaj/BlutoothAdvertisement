@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">BluetoothAdvertisements</string>
+    <string name="intro_message">
+        <![CDATA[
+
+This samples demonstrates how to use the Bluetooth Low Power Advertisements API
+with a single device acting as both scanner and advertiser.
+
+        ]]>
+    </string>
+</resources>
